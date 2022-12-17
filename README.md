@@ -4,6 +4,12 @@
 
 This tool uses regular expressions to search for potentially insecure configurations in the PHP info page.
 
+## Requirements:
+
+```
+pip install requests tabulate termcolor
+```
+
 ## Usage:
 
 ```
